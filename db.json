@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Oreo",
+      "description": "Delicious chocolate sandwich cookies with sweet vanilla cream.",
+      "originalPrice": 10,
+      "discountPercentage": 10,
+      "category": "Snacks",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/3/9/ea369b81-7c5b-4a2a-a460-3296ac4d10a3_10595_1.png",
+      "quantity": 12
+    },
+    {
+      "id": 2,
+      "name": "H&S Milano",
+      "description": "Premium chocolate-filled cookies offering a rich taste experience.",
+      "originalPrice": 120,
+      "discountPercentage": 4,
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/71G0N6SQ3aL.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Choco Pie",
+      "description": "Soft marshmallow-filled chocolate pies, perfect for snacking.",
+      "originalPrice": 90,
+      "discountPercentage": 3,
+      "category": "Snacks",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/189910_9-lotte-choco-pie.jpg",
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "name": "Cremica Biscuit Coconut",
+      "description": "Crunchy coconut-flavored biscuits, great with tea or coffee.",
+      "originalPrice": 30,
+      "discountPercentage": 17,
+      "category": "Snacks",
+      "image": "https://csdindia.gov.in/images/Products/84902.jpg",
+      "quantity": 6
+    },
+    {
+      "id": 5,
+      "name": "AC2 Popcorn",
+      "description": "Ready-to-eat popcorn with a buttery and salty flavor.",
+      "originalPrice": 160,
+      "discountPercentage": 1,
+      "category": "Snacks",
+      "image": "https://cdn.grofers.com/da/cms-assets/cms/product/bb040841-3b5b-4850-bc24-8ed254c29888.jpg?ts=1744286972",
+      "quantity": 2
+    },
+    {
+      "id": 6,
+      "name": "Peanuts Salted",
+      "description": "Crispy and salted peanuts, perfect for snacking anytime.",
+      "originalPrice": 44,
+      "discountPercentage": 9,
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/61d6YolwYoL.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": "Alofruit Guava",
+      "description": "Refreshing aloe vera-based guava juice drink.",
+      "originalPrice": 40,
+      "discountPercentage": 5,
+      "category": "Beverages",
+      "image": "https://ik.imagekit.io/wlfr/wellness/images/products/354112-1.jpg/tr:w-3840,c-at_max,cm-pad_resize,ar-1210-700,pr-true,f-auto,q-70,l-image,i-Wellness_logo_BDwqbQao9.png,lfo-bottom_right,w-200,h-90,c-at_least,cm-pad_resize,l-end",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "Marie multi-vita",
+      "description": "Classic light tea-time biscuit, low in fat.",
+      "originalPrice": 40,
+      "discountPercentage": 2,
+      "category": "Snacks",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/40204955-2_2-parle-multivita-marie.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "Good Day Pista",
+      "description": "Crunchy cookies enriched with pistachio flavor.",
+      "originalPrice": 35,
+      "discountPercentage": 3,
+      "category": "Snacks",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40025055_5-britannia-good-day-pista-badam-cookies.jpg",
+      "quantity": 2
+    },
+    {
+      "id": 10,
+      "name": "Maggie",
+      "description": "Instant noodles with a classic masala flavor.",
+      "originalPrice": 60,
+      "discountPercentage": 8,
+      "category": "Snacks",
+      "image": "https://www.bigbasket.com/media/uploads/p/xl/266162_20-maggi-2-minute-instant-noodles-masala.jpg",
+      "quantity": 2
+    },
+    {
+      "id": 11,
+      "name": "AC2 Tomato Bakes",
+      "description": "Savory baked snacks with a tangy tomato flavor.",
+      "originalPrice": 20,
+      "discountPercentage": 5,
+      "category": "Snacks",
+      "image": "https://www.bbassets.com/media/uploads/p/xxl/40016501_1-act-ii-tomato-bakes.jpg",
+      "quantity": 2
+    },
+    {
+      "id": 12,
+      "name": "Caramel Bliss",
+      "description": "Soft caramel toffee treat for a sweet delight.",
+      "originalPrice": 10,
+      "discountPercentage": 0,
+      "category": "Snacks",
+      "image": "https://cdn.grofers.com/app/images/products/sliding_image/432831a.jpg?ts=1687523480",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "Neem and Turmeric Soap",
+      "description": "Herbal soap with neem and turmeric for clear skin.",
+      "originalPrice": 64,
+      "discountPercentage": 6,
+      "category": "Personal Care",
+      "image": "https://cdn.salla.sa/nGgdb/Jy7Gx3RKlBYmKHZtljb0viA8SicpbZmcbSqEuHqD.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "name": "Henko Matic liquid",
+      "description": "Advanced liquid detergent for front and top load washing machines.",
+      "originalPrice": 120,
+      "discountPercentage": 8,
+      "category": "Household",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/40237248_2-henko-matic-liquid-detergent-top-load-nano-fibre-lock-technology-999-germ-protection.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "Parachute Hair Oil",
+      "description": "Pure coconut oil for nourishing and moisturizing hair.",
+      "originalPrice": 43,
+      "discountPercentage": 7,
+      "category": "Personal Care",
+      "image": "https://images.apollo247.in/pub/media/catalog/product/P/A/PAR0003_1-AUG23_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%201200w",
+      "quantity": 1
+    }
+  ]
+}
